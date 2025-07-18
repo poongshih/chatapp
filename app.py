@@ -436,7 +436,7 @@ def main():
                 {ASSISTANT_NAME}
             </h1>
             <p style='text-align: center; color: #888; font-size: 0.9em; margin-bottom: 0.2em;'>
-                Powered by Infinite Computer Solutions
+                Powered by VHF Limited
             </p>
             <p style='text-align: center; color: #555; font-size: 1.1em; margin-bottom: 0.5em;'>
                 Meet <strong style='color: #28a745; font-weight: 900;'>{ASSISTANT_NAME}</strong>, your smart companion for quick insights from documents.
